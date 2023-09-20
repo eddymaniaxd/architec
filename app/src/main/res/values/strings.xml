@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Crud</string>
+    <string name="str_btnbuscar">Buscar Producto</string>
+    <string name="str_btnregistrar">Registrar Producto</string>
+    <string name="str_btnListar">Listar Producto</string>
+
+    <string name="str_nombre">Nombre</string>
+    <string name="str_precio">Precio</string>
+    <string name="str_fecha">Fecha</string>
+
+    <string name="str_bienvenido">Bienvenidos</string>
+    <string name="str_descripcion_iumagen">Todo</string>
+    <string name="str_listarproductos">Listado de Productos</string>
+    <string name="str_gestionproductos">Gestion de Productos</string>
+    <string name="str_buscarproducto">Buscar Producto x nombre</string>
+    <string name="str_digitenombre">Digite el nombre a buscar</string>
+</resources>
